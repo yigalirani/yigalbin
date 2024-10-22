@@ -1,0 +1,7 @@
+{
+  "name": "fm",
+  "version": "1.0.0",
+  "bin": {
+    "fm": "./index.js"
+  }
+}
